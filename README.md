@@ -2,7 +2,7 @@
 
 **Most online shoppers leave without buying. This app predicts, from a single browsing session, whether a visitor will purchase, and tells the store what to do right now: no action, show a coupon, or open a chat.**
 
-**▶ Live app:** `PASTE-YOUR-STREAMLIT-LINK-HERE`
+**▶ Live app:** `https://will-this-visitor-buy.streamlit.app/`
 
 ![App demo](assets/demo.gif)
 
