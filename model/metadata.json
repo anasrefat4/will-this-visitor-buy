@@ -1,0 +1,29 @@
+{
+  "model": "Gradient boosting (tuned)",
+  "threshold": 0.296,
+  "low_cut": 0.15,
+  "high_cut": 0.6,
+  "test_metrics": {
+    "ROC-AUC": 0.932,
+    "PR-AUC": 0.748,
+    "F1": 0.671,
+    "Precision": 0.619,
+    "Recall": 0.733,
+    "Accuracy": 0.889
+  },
+  "train_rows": 9864,
+  "test_rows": 2466,
+  "sklearn_version": "1.9.1",
+  "feature_medians": {
+    "Administrative": 1.0,
+    "Administrative_Duration": 8.0,
+    "Informational": 0.0,
+    "Informational_Duration": 0.0,
+    "ProductRelated": 18.0,
+    "ProductRelated_Duration": 600.5367,
+    "BounceRates": 0.0031,
+    "ExitRates": 0.0252,
+    "PageValues": 0.0,
+    "SpecialDay": 0.0
+  }
+}
